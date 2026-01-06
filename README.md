@@ -113,7 +113,7 @@ Este projeto foi desenvolvido com fins **acadêmicos**, com o objetivo de pratic
 
 ## 👨‍💻 Autor
 
-**Raimundo Jairo da Silva Dias**  
+Gabriel Bezerra Silva
 
 ---
 
